@@ -2,7 +2,7 @@
 <h3 align="center">Senior DevOps · SRE · Cloud Infrastructure Engineer</h3>
 
 <p align="center">
-  Building reliable, automated, multi-cloud platforms — Terraform, Kubernetes, GitOps,
+  Building reliable, automated, multi-cloud platforms  Terraform, Kubernetes, GitOps,
   observability, and SLO-driven reliability. 5+ years shipping production infrastructure.
 </p>
 
@@ -14,11 +14,11 @@
 
 ### 🔧 What I do
 
-- **Infrastructure as Code** — reusable Terraform module libraries across **AWS & GCP** (VPC, EKS/GKE, RDS, IAM least-privilege, ALB).
-- **Kubernetes & GitOps** — Helm + Argo CD app-of-apps, progressive delivery with Argo Rollouts (canary / blue-green).
-- **Observability & SLOs** — Prometheus, Grafana, Loki, Alloy; SLI/SLO and error-budget frameworks with multi-burn-rate alerting.
-- **CI/CD & DevSecOps** — GitLab CI templates and reusable GitHub Actions with SonarQube, Wiz, SAST/DAST gates; self-hosted runners.
-- **Reliability engineering** — incident response, blameless postmortems, Kafka-on-k8s monitoring, MTTD/MTTR reduction.
+- **Infrastructure as Code**  reusable Terraform module libraries across **AWS & GCP** (VPC, EKS/GKE, RDS, IAM least-privilege, ALB).
+- **Kubernetes & GitOps**  Helm + Argo CD app-of-apps, progressive delivery with Argo Rollouts (canary / blue-green).
+- **Observability & SLOs**  Prometheus, Grafana, Loki, Alloy; SLI/SLO and error-budget frameworks with multi-burn-rate alerting.
+- **CI/CD & DevSecOps**  GitLab CI templates and reusable GitHub Actions with SonarQube, Wiz, SAST/DAST gates; self-hosted runners.
+- **Reliability engineering**  incident response, blameless postmortems, Kafka-on-k8s monitoring, MTTD/MTTR reduction.
 
 ---
 
